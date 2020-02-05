@@ -8,7 +8,7 @@
       <ContentTemplate>
         <div class="row">
          <div class="col-sm-12">
-             <label class="control-label" for="">Tipo específico con calidad</label>
+             <label class="control-label" for="">Titulo Producto</label>
              <asp:DropDownList ID="ListaTitulo" runat="server" CssClass="form-control input-focused" AutoPostBack="true" Width="50%" OnSelectedIndexChanged="ListaTitulo_SelectedIndexChanged" />
          </div>
         </div>
